@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Deepak Internal\\vs projects\\BackGroundScheduler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21AD72AF-129F-40F4-AA8B-2253DA74D286}|BackGroundScheduler\\BackGroundScheduler.csproj|e:\\deepak internal\\vs projects\\backgroundscheduler\\backgroundscheduler\\controllers\\backgroundscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AD72AF-129F-40F4-AA8B-2253DA74D286}|BackGroundScheduler\\BackGroundScheduler.csproj|solutionrelative:backgroundscheduler\\controllers\\backgroundscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AD72AF-129F-40F4-AA8B-2253DA74D286}|BackGroundScheduler\\BackGroundScheduler.csproj|e:\\deepak internal\\vs projects\\backgroundscheduler\\backgroundscheduler\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AD72AF-129F-40F4-AA8B-2253DA74D286}|BackGroundScheduler\\BackGroundScheduler.csproj|solutionrelative:backgroundscheduler\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AD72AF-129F-40F4-AA8B-2253DA74D286}|BackGroundScheduler\\BackGroundScheduler.csproj|e:\\deepak internal\\vs projects\\backgroundscheduler\\backgroundscheduler\\applicationdbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AD72AF-129F-40F4-AA8B-2253DA74D286}|BackGroundScheduler\\BackGroundScheduler.csproj|solutionrelative:backgroundscheduler\\applicationdbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AD72AF-129F-40F4-AA8B-2253DA74D286}|BackGroundScheduler\\BackGroundScheduler.csproj|e:\\deepak internal\\vs projects\\backgroundscheduler\\backgroundscheduler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21AD72AF-129F-40F4-AA8B-2253DA74D286}|BackGroundScheduler\\BackGroundScheduler.csproj|solutionrelative:backgroundscheduler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AD72AF-129F-40F4-AA8B-2253DA74D286}|BackGroundScheduler\\BackGroundScheduler.csproj|e:\\deepak internal\\vs projects\\backgroundscheduler\\backgroundscheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AD72AF-129F-40F4-AA8B-2253DA74D286}|BackGroundScheduler\\BackGroundScheduler.csproj|solutionrelative:backgroundscheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AD72AF-129F-40F4-AA8B-2253DA74D286}|BackGroundScheduler\\BackGroundScheduler.csproj|e:\\deepak internal\\vs projects\\backgroundscheduler\\backgroundscheduler\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AD72AF-129F-40F4-AA8B-2253DA74D286}|BackGroundScheduler\\BackGroundScheduler.csproj|solutionrelative:backgroundscheduler\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AD72AF-129F-40F4-AA8B-2253DA74D286}|BackGroundScheduler\\BackGroundScheduler.csproj|e:\\deepak internal\\vs projects\\backgroundscheduler\\backgroundscheduler\\interfaces\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AD72AF-129F-40F4-AA8B-2253DA74D286}|BackGroundScheduler\\BackGroundScheduler.csproj|solutionrelative:backgroundscheduler\\interfaces\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AD72AF-129F-40F4-AA8B-2253DA74D286}|BackGroundScheduler\\BackGroundScheduler.csproj|e:\\deepak internal\\vs projects\\backgroundscheduler\\backgroundscheduler\\backgroundscheduler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21AD72AF-129F-40F4-AA8B-2253DA74D286}|BackGroundScheduler\\BackGroundScheduler.csproj|solutionrelative:backgroundscheduler\\backgroundscheduler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Deepak Internal\\vs projects\\BackGroundScheduler\\BackGroundScheduler\\ApplicationDbContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BackGroundScheduler\\ApplicationDbContext\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Deepak Internal\\vs projects\\BackGroundScheduler\\BackGroundScheduler\\ApplicationDbContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BackGroundScheduler\\ApplicationDbContext\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:23:22.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Deepak Internal\\vs projects\\BackGroundScheduler\\BackGroundScheduler\\appsettings.json",
+              "RelativeDocumentMoniker": "BackGroundScheduler\\appsettings.json",
+              "ToolTip": "E:\\Deepak Internal\\vs projects\\BackGroundScheduler\\BackGroundScheduler\\appsettings.json",
+              "RelativeToolTip": "BackGroundScheduler\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T18:21:08.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Deepak Internal\\vs projects\\BackGroundScheduler\\BackGroundScheduler\\Program.cs",
+              "RelativeDocumentMoniker": "BackGroundScheduler\\Program.cs",
+              "ToolTip": "E:\\Deepak Internal\\vs projects\\BackGroundScheduler\\BackGroundScheduler\\Program.cs",
+              "RelativeToolTip": "BackGroundScheduler\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:21:06.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackGroundScheduler.cs",
+              "DocumentMoniker": "E:\\Deepak Internal\\vs projects\\BackGroundScheduler\\BackGroundScheduler\\Controllers\\BackGroundScheduler.cs",
+              "RelativeDocumentMoniker": "BackGroundScheduler\\Controllers\\BackGroundScheduler.cs",
+              "ToolTip": "E:\\Deepak Internal\\vs projects\\BackGroundScheduler\\BackGroundScheduler\\Controllers\\BackGroundScheduler.cs",
+              "RelativeToolTip": "BackGroundScheduler\\Controllers\\BackGroundScheduler.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:09:21.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Deepak Internal\\vs projects\\BackGroundScheduler\\BackGroundScheduler\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BackGroundScheduler\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Deepak Internal\\vs projects\\BackGroundScheduler\\BackGroundScheduler\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BackGroundScheduler\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA+wAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:11:04.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "E:\\Deepak Internal\\vs projects\\BackGroundScheduler\\BackGroundScheduler\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "BackGroundScheduler\\Interfaces\\IEmailService.cs",
+              "ToolTip": "E:\\Deepak Internal\\vs projects\\BackGroundScheduler\\BackGroundScheduler\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "BackGroundScheduler\\Interfaces\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:45:43.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "E:\\Deepak Internal\\vs projects\\BackGroundScheduler\\BackGroundScheduler\\Interfaces\\EmailService.cs",
+              "RelativeDocumentMoniker": "BackGroundScheduler\\Interfaces\\EmailService.cs",
+              "ToolTip": "E:\\Deepak Internal\\vs projects\\BackGroundScheduler\\BackGroundScheduler\\Interfaces\\EmailService.cs",
+              "RelativeToolTip": "BackGroundScheduler\\Interfaces\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:47:25.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BackGroundScheduler.csproj",
+              "DocumentMoniker": "E:\\Deepak Internal\\vs projects\\BackGroundScheduler\\BackGroundScheduler\\BackGroundScheduler.csproj",
+              "RelativeDocumentMoniker": "BackGroundScheduler\\BackGroundScheduler.csproj",
+              "ToolTip": "E:\\Deepak Internal\\vs projects\\BackGroundScheduler\\BackGroundScheduler\\BackGroundScheduler.csproj",
+              "RelativeToolTip": "BackGroundScheduler\\BackGroundScheduler.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T18:43:04.408Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
